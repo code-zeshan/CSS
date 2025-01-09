@@ -60,3 +60,17 @@ h1{
     transform: skew(20deg);
     background: #555;
 }
+
+
+.text{
+    color: purple;
+    font-family: Helvetica;
+    size: 50px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0,0.5)
+}
