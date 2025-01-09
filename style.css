@@ -1,0 +1,62 @@
+
+p{
+    color: orange;
+}
+
+h1{
+    color: blueviolet;
+}
+
+.cfi{
+    color: blueviolet;
+}
+
+#mujju{
+    background-color: black;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: #075E54;
+    border: 2px solid hsl(0, 87%, 50%);
+}
+
+.rectangle{
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid hsl(0, 87%, 50%);
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 50%;
+    border: 2px solid hsl(0, 87%, 50%);
+}
+
+.oval{
+    height: 100px;
+    width: 50px;
+    background-color: aqua;
+    border-radius: 50%;
+    border: 2px solid hsl(0, 87%, 50%);
+}
+
+.trapezoid{
+    border-bottom: 50px solid #555;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 125px;
+
+}
+
+.parallelogram{
+    width: 100px;
+    height: 50px;
+    transform: skew(20deg);
+    background: #555;
+}
