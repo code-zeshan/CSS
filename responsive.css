@@ -1,0 +1,25 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+}
+
+p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+
+
+@media(max-width: 600px){
+    .box{
+        height: 50px;
+        width: 50px;
+        background-color: yellow;
+    }
+
+    p{
+        color: red;
+    }
+}
